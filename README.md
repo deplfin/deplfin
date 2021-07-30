@@ -3,10 +3,10 @@
 ## I'm a student and novice programmer 💻
 
 ### About me
-##### 🌚 *I am more productive at night than during the day*
+#### 🌚 *I am more productive at night than during the day*
 
-#####  <img align="left" alt="LINUX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /> *I use linux*
-##### 📄  *I use SublimeText*
+####  <img align="left" alt="LINUX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /> *I use linux*
+#### 📄  *I use SublimeText*
 
 <br />
 
